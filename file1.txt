@@ -1,0 +1,4 @@
+apples are red
+cherries are brown
+mangoes are yellow
+grapes are purple
